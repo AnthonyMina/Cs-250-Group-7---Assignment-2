@@ -6,7 +6,8 @@ The Mountain Lion Detection System uses noise detection sensors throughout the S
 
 Software Architecture Overview:
 
-The System has Three pages and a data base. The Alarm Detection page collects information from the Sensors if an Animal/Mountin Lion is detected. Information such as the sensor's location(that detected the animal and the strength of the noise detcted. The Alarm Detection class also keeps track of the date and time the animal was detected and the name of the Ranger resposible for the area of the sensor. All these information then get sent as report to the Control Page. The operator of the Control page can disable the alarm send the data to the Data Base and look up previous reports from the report's page
+
+The System has Three pages and a database. The Alarm Detection page collects information from the Sensors if an Animal/Mountain Lion is detected. Information such as the sensor's location(that detected the animal and the strength of the noise detected. The Alarm Detection class also keeps track of the date and time the animal was detected and the name of the Ranger responsible for the area of the sensor. All this information then gets sent as a report to the Control Page. The operator of the Control page can disable the alarm, send the data to the Database and look up previous reports from the report's page. The database retrieves and saves the reports for documentation and future reference. The Get Reports page is where all the reports would be stored and archived to help predict and manage future incidents.
 
 Development Plan and Timeline:
 
