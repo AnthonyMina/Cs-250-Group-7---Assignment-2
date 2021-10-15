@@ -6,7 +6,7 @@ The Mountain Lion Detection System uses noise detection sensors throughout the S
 
 Software Architecture Overview:
 
-The System has Three classes and two data bases. The Alarm Detection class collects information from the Sensors if an Animal/Mountin Lion is detected. Information such as the sensor's location(that detected the animal and the strength of the noise detcted. The Alarm Detection class also keeps track of the date and time the animal was detected and the name of the Ranger resposible for the area of the sensor. All these information then get sent as report to the Control Page.
+The System has Three classes and two data bases. The Alarm Detection class collects information from the Sensors if an Animal/Mountin Lion is detected. Information such as the sensor's location(that detected the animal and the strength of the noise detcted. The Alarm Detection class also keeps track of the date and time the animal was detected and the name of the Ranger resposible for the area of the sensor. All these information then get sent as report to the Control Page. The operator of the Control page can disable the alarm send the data to the Data Base and look up previous reports from the report's page
 
 Development Plan and Timeline:
 
