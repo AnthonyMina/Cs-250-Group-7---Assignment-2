@@ -18,3 +18,6 @@ Halah Salman-
 Kaitlyn Nguyen- responsible for the report component
 Remy Huynh-
 
+Commit's For Credit:
+1. Anthony Mina
+
