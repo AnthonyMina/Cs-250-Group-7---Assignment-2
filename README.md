@@ -16,10 +16,11 @@ Tasks are partitioned by major components.
 Anthony Mina-
 Halah Salman-
 Kaitlyn Nguyen- responsible for the report component
-Remy Huynh-
+Remy Huynh- reponsible for database format
 
 Commit's For Credit:
 1. Anthony Mina
 2. Kaitlyn Nguyen
 3. Halah Salman
+4. Remy Huynh
 
