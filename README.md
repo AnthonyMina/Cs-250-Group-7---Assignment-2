@@ -21,6 +21,6 @@ Remy Huynh- reponsible for database format
 Commit's For Credit:
 1. Anthony Mina
 2. Kaitlyn Nguyen
-3. Halah Salman
+3. Halah Salman 
 4. Remy Huynh
 
